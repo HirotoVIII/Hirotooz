@@ -23,3 +23,6 @@
 
 
 
+### *Spotify Songs <img src="https://cdn.discordapp.com/attachments/750576652290883584/796410290484805642/fogorainbow_midnight.gif" height="30px" width="30px"/>*
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
+
