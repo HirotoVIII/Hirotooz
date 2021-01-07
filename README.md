@@ -40,3 +40,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hirotooz&show_icons=true&theme=radical)
 
+</details>
+
+
