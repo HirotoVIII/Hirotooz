@@ -42,4 +42,8 @@
 
 </details>
 
+<img align="right" alt="GIF" height="400" width="800" src="https://github.com/Hirotooz/Hiro/blob/main/61606933d744cf18e68f2a008d0d2b58.gif" />
+  <br>
 
+
+##### 私もあなたが嫌い​​ですが、あなたのように見せようとして時間を無駄にしたくありません。
